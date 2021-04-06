@@ -17,7 +17,11 @@ tools wanted:
  path of learning:
  
   1. Basic
+  
     1.1. basicSyntx.c
+    
     1.2. IOFunction.c
+    
     1.3. helloWorldProgramme.c
+    
     1.4. datatype.txt
