@@ -14,14 +14,15 @@ tools wanted:
   you can use any online compiler
   
   
+  If you use this repo you can run and test the c files in this .
+  
+  
  path of learning:
  
   1. Basic
   
     1.1. basicSyntx.c
+        
+    1.2. helloWorldProgramme.c
     
-    1.2. IOFunction.c
-    
-    1.3. helloWorldProgramme.c
-    
-    1.4. datatype.txt
+    1.3. datatype.txt
