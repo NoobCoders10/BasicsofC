@@ -1,4 +1,6 @@
+Read this first
 # BasicsofC
+
 all the basics of c language
 
 This repo will be help you to learn the c programming easily.
@@ -11,3 +13,11 @@ tools wanted:
   or,
   you can use any online compiler
   
+  
+ path of learning:
+ 
+  1. Basic
+    1.1. basicSyntx.c
+    1.2. IOFunction.c
+    1.3. helloWorldProgramme.c
+    1.4. datatype.txt
