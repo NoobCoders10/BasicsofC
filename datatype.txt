@@ -1,0 +1,5 @@
+in c there are primitive datatypes and other datatypes
+
+primitive datatypes are :
+	1. int 
+		it refers to the integer value. if we want a inte
