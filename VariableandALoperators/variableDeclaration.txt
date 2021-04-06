@@ -1,3 +1,6 @@
 Variable Delcaration:
 
+	for declearing a variable in C , first you want to mention the data type of the variable and the name of the variable . Such as ;
+			int a ;
 
+Here I declare a variable called a, At first I mentioned the datatype of that variable such as 'int' and the varable name a. ';' is for completing the syntx. If you declare a varible like this the computer  will  assign a empty space in the memory. 
