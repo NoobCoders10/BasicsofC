@@ -2,4 +2,52 @@ in c there are primitive datatypes and other datatypes
 
 primitive datatypes are :
 	1. int 
-		it refers to the integer value. if we want a inte
+		it refers to the integer value.such as 0,1,2,3 etc 
+	2.float
+		it refers to the decimal value.such as 90.3,5.44 etc. A float can print 6 digits after the decimal.
+	3. char
+		it refers to the character. such as our english alphabets.
+	4. boolen
+		it can only print true or false.
+
+other datatypes are:
+	1. String
+		it is the group of char values. for example our name is group of character right? it is called a string.
+
+	2. Double
+		double is nothing but a float value but double are of two types.
+		 
+		1)short double : it can print last 8  digits after decimal point 
+		2)long double : it can print last 16 digits after decimal point
+
+		double is 2 times more accurate than a float .
+
+
+
+Data conversion:
+
+the smallest unit of data is bits it is represented by 'b'
+
+8 bits = 1 Bytes (Bytes represented by 'B')
+1024 Bytes =  1 KiloBytes(KB)
+1024 KB =  1 MegaBytes(MB)
+1024 MB =  1 GigaBytes(GB)
+1024 GB =  1 TetraBytes(TB)
+1024 TB =  1 PetaBytes(PB)
+
+
+
+
+Occurence of Datatypes memory:
+
+If we want to store a integer in (datetype int) our memory it will take 4 Bytes in memory ie 32bits.
+
+similarly:
+
+A float value take 4 Bytes also
+A char value take 1 Bytes
+A short double take 8 Bytes
+A long double take 16 Bytes in our memory .
+
+
+For now you want to only understand these things . The concept of these you were understand later
