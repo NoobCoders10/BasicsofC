@@ -4,3 +4,19 @@ Variable Delcaration:
 			int a ;
 
 Here I declare a variable called a, At first I mentioned the datatype of that variable such as 'int' and the varable name a. ';' is for completing the syntx. If you declare a varible like this the computer  will  assign a empty space in the memory. 
+
+also we can declare a varible with a value. As,
+			int a = 5;
+it allocate a space in the memory for storing a integer varible called a with value 5.
+
+As we write in the case declaration of c we can also declare variable in float , char and double . As,
+
+	float b=5.67;
+	char c='h';
+	double d = 56.77;
+
+*The important thing if we declare a variable use the name for what purpose we are using that varible.
+for example , if we declare a varible for storing a input number we can name that variable as , 
+	num or num1 or inp or inp1 or inpnum.
+
+It wil help other can understand the code very easily.
