@@ -1,0 +1,10 @@
+As I told you that the usage of any programming langauage is for communicating with user and to the system.
+As a Programmer we can interact with Users as Giving an output and get an Input . 
+
+For giving an Output we use we can use the function called 'printf'.
+
+the syntx of printf is : printf("what we want to print write here"); 
+
+you can understand how printf work in the next c file you can also execute that file . (helloWorldProgramme.c)
+
+
