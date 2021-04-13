@@ -22,7 +22,9 @@ tools wanted:
   1. Basic
   
     1.1. basicSyntx.c
-        
-    1.2. helloWorldProgramme.c
     
-    1.3. datatype.txt
+    1.2. inputoutputfunction.txt
+        
+    1.3. helloWorldProgramme.c
+    
+    
