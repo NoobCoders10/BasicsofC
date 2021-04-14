@@ -1,0 +1,20 @@
+Like mathematics in programming also we have arthematic operator . 
+
+for Addition we use '+' operator. 
+for Substraction we use '-' operator. 
+for multiplication we use '*' operator .
+for Division we use '/' operator .
+
+for the examples of arthematic operators read , execute the c files comming after this file . 
+
+ie:, 3.1.1 addition.c
+3.1.2 substraction.c
+3.1.3 multiplication.c 
+3.1.4 division.c
+
+these c files can execute and it will print the correct values. In above mentioned file done as take input from the user. Please 
+make sure that from these lesson keep practising with us.
+
+if any case of doubt the time of coding yourself Please come and read the files once more.
+
+I hope these repos make you c programming easier . 
