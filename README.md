@@ -19,12 +19,5 @@ tools wanted:
   
  path of learning:
  
-  1. Basic
-  
-    1.1. basicSyntx.c
-    
-    1.2. inputoutputfunction.txt
-        
-    1.3. helloWorldProgramme.c
-    
+ 
     
