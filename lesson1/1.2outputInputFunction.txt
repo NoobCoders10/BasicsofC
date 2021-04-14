@@ -7,4 +7,12 @@ the syntx of printf is : printf("what we want to print write here");
 
 you can understand how printf work in the next c file you can also execute that file . (helloWorldProgramme.c)
 
+For get an Input form the user we can use the function called 'scanf'.
+
+the syntx of scanf is  : scanf("(formator)",&name of the varible);
+
+you can understand how scanf work in the inputFuction.c file . you can also execute that programme.
+
+for get an idea about formators visit formator.txt file included in this lesson.
+
 
