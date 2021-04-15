@@ -19,4 +19,5 @@ As we write in the case declaration of c we can also declare variable in float ,
 for example , if we declare a varible for storing a input number we can name that variable as , 
 	num or num1 or inp or inp1 or inpnum.
 
-It wil help other can understand the code very easily.
+make sure you want to declare the variable at the first line the main funtion is started.
+you can understand it on comming files..
