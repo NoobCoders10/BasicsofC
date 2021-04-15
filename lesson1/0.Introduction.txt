@@ -1,0 +1,56 @@
+Hai friends welcome to Noobcoder10 's Basic C programming repo
+
+this repo will help you to understand the basic idea of c programming.
+
+for using this repo for your learning process , please go through the all the files and read the instruction and codes.
+
+for better path we added a number before the file names . it will help you navigate throught the lessons .
+
+(you can see a introduction file on all the lessons . this help you to navigation and with that file you can understand why we learn that lesson.)
+
+
+So friends this is the first lesson . here we want to cover the basic syntx of c programming , input-output function in c , datatypes , formators and variable
+declartion in c.
+
+
+We should recommand run the c file in all the lessons expect the basicSyntx.c file . That make you better understanding about c programming and after running 
+that programme , try to do that programme by yourself.
+
+before we going to the first go to lesson let us make something clear.
+
+
+Bracketts we are going to use and it's names;
+
+Bracketts      names
+
+<>              arrow Brackett
+
+()              open Brackett
+
+{}              kali Brackett
+
+[]              squre Brackett
+
+
+you can understand the uses of these Bracketts on comming lessons.
+
+commenting a line on programming:
+
+comment are esenssial thing for programming . it will help others can understand your programme.
+we use two type of comments in programming
+
+1. comment one line . you can use two slah sign ('//').
+Eg. : //this is a comment.
+
+2. comment multiple line . you can use '/**/' and the comment should write between two * sign.
+Eg. : /*
+        this is multiple comments . 
+        commetnts
+        commetnts
+*/
+
+
+Hope you can understand these one. you can understand these things comming lessons.
+
+let move to the next file. 
+next file : 1.1basicSyntx.c
