@@ -31,5 +31,19 @@ for linux users , open the terminal and just type the command - sudo apt install
   
  path of learning:
  
+ 1. lesson1
+   0.introduciton.txt
+   1.basicSyntx.c
+   1.2.ouputInputFunction.c
+   1.3helloWorldProgramme.c
+   1.4.0datatype.txt
+   1.4.1datatype.c
+   1.5variabledeclaration.txt
+   1.6.formator.txt
+   1.7printvariable.c
+   1.8inputFunction.c
+   problem.txt
+   3.
+ 
  
     
