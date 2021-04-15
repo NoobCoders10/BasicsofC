@@ -1,0 +1,9 @@
+pr1) print a float value
+pr2) print a char value
+pr3) take float value from the user and print it 
+pr4) take char value from the user and print it
+
+hints:
+
+formator used for input and output a float value: %f
+formator used for input and output a float value: %c

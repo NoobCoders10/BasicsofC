@@ -49,8 +49,15 @@ Eg. : /*
         commetnts
 */
 
+Escape sequnces:
+
+if we want to print the statement we use \n(prenounced as escape n ) and for a tab space we use \t (prenounced as escape t) 
 
 Hope you can understand these one. you can understand these things comming lessons.
+
+
+and last of every lesson we added a problem.txt file . that's for you. do that problems
+
 
 let move to the next file. 
 next file : 1.1basicSyntx.c

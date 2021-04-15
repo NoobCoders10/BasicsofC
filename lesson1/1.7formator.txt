@@ -1,0 +1,9 @@
+Formator:
+
+we use Formator for print or take input for a datatype.
+
+we use "%d" formator for integer
+we use "%f" formator for float
+we use "%c" formator for char
+
+you will understand uses of these formators in comming files.
