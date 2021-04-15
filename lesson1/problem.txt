@@ -6,4 +6,4 @@ pr4) take char value from the user and print it
 hints:
 
 formator used for input and output a float value: %f
-formator used for input and output a float value: %c
+formator used for input and output a char value: %c
