@@ -5,7 +5,7 @@ all the basics of c language
 
 This repo will be help you to learn the c programming easily.
 
-for continue with this repo you want a laptop or desktoop.
+for continue with this repo you want a laptop or desktop.
 
 tools wanted:
   1. Your favorite IDE or Text editor(Eg: VS Code (highly preferd),sublime text,vim)
@@ -33,7 +33,7 @@ for linux users , open the terminal and just type the command - sudo apt install
  
  1. lesson1
  
-        0.introduciton.txt
+         0.introduciton.txt
 
          1.1.basicSyntx.c
    
@@ -41,7 +41,7 @@ for linux users , open the terminal and just type the command - sudo apt install
    
          1.3helloWorldProgramme.c
    
-        1.4.0datatype.txt
+         1.4.0datatype.txt
    
          1.4.1datatype.c
    
@@ -49,9 +49,9 @@ for linux users , open the terminal and just type the command - sudo apt install
    
          1.6.formator.txt
    
-        1.7printvariable.c
+         1.7printvariable.c
    
-        1.8inputFunction.c
+         1.8inputFunction.c
   
          problem.txt
    
