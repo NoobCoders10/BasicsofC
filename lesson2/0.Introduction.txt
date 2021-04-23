@@ -1,0 +1,17 @@
+Hai weclome to lesson 2
+
+An operator is a symbol that operates on a value or a variable. For example: + is an operator to perform addition.
+
+C has a wide range of operators to perform various operations.
+
+In this lesson we are going to discuss that.
+
+In C language we have different types of operates. they are 
+
+    1. Arthematic operators
+    2. Increment and Decrement operators
+    3. Assignment operators
+    4. Relational operators
+    5. Logical operators
+    6. Bitwise operators
+    7. Other operators

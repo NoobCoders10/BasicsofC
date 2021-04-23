@@ -1,0 +1,29 @@
+C programming has two operators increment ++ and decrement -- to change the value of an operand (constant or variable) by 1.
+
+Increment ++ increases the value by 1 whereas decrement -- decreases the value by 1. These two operators are unary operators, 
+meaning they only operate on a single operand.
+
+we have two type of Increment and Decrement function . 
+
+    1.prefix or pre
+    2.postfix or post
+
+In programming (Java, C, C++, JavaScript etc.), the increment operator ++ increases the value of a variable by 1. 
+Similarly, the decrement operator -- decreases the value of a variable by 1.
+
+ie; for example 
+    a = 5
+    ++a;          // a becomes 6
+    a++;          // a becomes 7
+    --a;          // a becomes 6
+    a--;          // a becomes 5
+
+++ and -- operator as prefix and postfix
+If you use the ++ operator as a prefix like: ++var, the value of var is incremented by 1; 
+then it returns the value.
+If you use the ++ operator as a postfix like: var++, the original value of var is returned first; 
+then var is incremented by 1.
+
+The -- operator works in a similar way to the ++ operator except -- decreases the value by 1.
+
+let us see one one examples on comming c files. 

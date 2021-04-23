@@ -1,0 +1,10 @@
+An assignment operator is used for assigning a value to a variable. The most common assignment operator is =
+The assignment operator used for assign the value to the variable
+
+Operator	  Example	 Same as
+    =	      a = b	     a = b
+    +=	      a += b     a = a+b
+    -=	      a -= b	 a = a-b
+    *=	      a *= b	 a = a*b
+    /=	      a /= b	 a = a/b
+    %=	      a %= b	 a = a%b

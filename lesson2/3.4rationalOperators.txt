@@ -1,0 +1,17 @@
+A relational operator checks the relationship between two operands. If the relation is true, it returns 1; if the relation is false, it returns value 0.
+
+Relational operators are used in decision making and loops.
+
+we are going to discuss about the decision making and loops on comming lessons.
+
+Operator	Meaning of Operator	        Example
+  ==       	Equal to	                5 == 3 is evaluated to 0
+  >	        Greater than	            5 > 3 is evaluated to 1
+  <	        Less than	                5 < 3 is evaluated to 0
+  !=	    Not equal to	            5 != 3 is evaluated to 1
+  >=	    Greater than or equal to	5 >= 3 is evaluated to 1
+  <=	    Less than or equal to	    5 <= 3 is evaluated to 0
+
+for true conditions programming language returns 1 and for false it is 0.
+
+
