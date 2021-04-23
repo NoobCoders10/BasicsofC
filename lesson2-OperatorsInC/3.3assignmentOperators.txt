@@ -8,3 +8,5 @@ Operator	  Example	 Same as
     *=	      a *= b	 a = a*b
     /=	      a /= b	 a = a/b
     %=	      a %= b	 a = a%b
+
+    I think we are discuss it on previous lectures. So I hope it is clear. So in further files we are going to write like this. 
