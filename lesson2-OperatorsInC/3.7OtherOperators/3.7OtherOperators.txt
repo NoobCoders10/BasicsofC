@@ -1,0 +1,6 @@
+the other operators are 
+
+ coma(,),pointer(*)
+
+ use of coma you were seen previous files. ...
+ pointers is large different topic that we discuss later
