@@ -1,0 +1,6 @@
+Some Problem From this Lesson
+
+Problem1)   Try to do develop a calculator (Terminal based)that show the result of additioin , substraction , product and division one bye one
+            The 2 input must taken from the user and also output must be optimized. 
+
+Problem2)   Write a programme calculate product of 3 numbers 
