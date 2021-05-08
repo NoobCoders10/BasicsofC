@@ -1,0 +1,1 @@
+In this lesson we are going to discuss about the conditional opertors in C. It is a Important topic so don't skip it
