@@ -1,0 +1,48 @@
+The most important conditional checking statement is if-else. We use conditional statements for checking the conditions , and processed with
+the code.
+
+at first we want to understand the syntx of conditional statements . In this chapter we are going to the first conditional statement ie,
+if-else.
+
+
+syntx of if else:
+
+if(condition want to check){
+    code want to excecute if the condition is true;
+}else{
+    code want to excecute if the condition is false;
+}
+
+simple syntx right?
+
+Working of if-else:
+
+I am going to explain if-else with an example, I want to write a programme that user enter a value and show the value even or odd .
+
+here we need the conditional statement , now we are if-else so we are going to use that. Here we want to check whether the enterd number is even
+or odd , if it is even print even number or if it is odd print odd number.
+
+how to find a even or odd? 
+
+for that we completed lesson 2 the operators in c , there is special operators called modulus (%) do you remember this operator?
+
+if we take modulus of the entered number with 2 if it gives zero as reminder than it is a even number else it is odd number
+
+Now we get the logic of our problem , but how to write in the code?
+
+we can write it like this
+
+if(num % 2 == 0){
+    printf("Even Number");
+}else{
+    printf("Odd Number");
+}
+
+
+how is it works? 
+at first it takes the number and take modulus with respect to 2 if it give 0 then code inside the if block will be excecuted. if it gives other than 0 
+then code inside the else block will be excecute. 
+
+For better understanding provided code of this problem and 2 other problems , understand these codes and write your self in your favorite ide or code editor
+
+all the best....
