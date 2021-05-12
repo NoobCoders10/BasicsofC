@@ -5,7 +5,9 @@ all the basics of c language
 
 This repo will be help you to learn the c programming easily.
 
-for continue with this repo you want a laptop or desktop.
+also if you have doubt you can ask on the discussion section(make sure under the category Q&A)
+
+for continue with this repo you want a laptop or desktop or a mobile (not preferd).
 
 tools wanted:
   1. Your favorite IDE or Text editor(Eg: VS Code (highly preferd),sublime text,vim)
