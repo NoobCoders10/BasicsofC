@@ -1,0 +1,25 @@
+if-else working is also similar of if-else. But here we want to check more than one condition. 
+For understanding the working of if-else ladder , we can take the problem as we taken in the if-else lesson
+
+But there is a small change in the problem statement 
+while we checking the number is even or odd we want to also check the number is zero or not ? 
+(DIY: what is the output , If I enter zero in the previous solution)
+
+As our previous knowledge we can write a solution as :
+
+#include <stdio.h>
+
+int main(){
+    int num;
+
+    if(num ==0){
+        printf("The number is Zero");
+    }else{
+        if(num % 2 == 0){
+            printf("Even Number");
+        }else{
+            printf("Odd Number");
+        }
+    }
+    return 0;
+}
