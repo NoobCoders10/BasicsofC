@@ -23,3 +23,38 @@ int main(){
     }
     return 0;
 }
+
+
+Here we are using two distingnt if else or if-else in a if-else that's called nested if-else. But you think if I want to check one
+more condition like is the enterd number is negative or not , while using nested if-else the program look like a complex one, Here 
+we can use the if-else ladder.Like this:
+
+if(num < 0){
+    printf("Number is negative");
+}else if(num == 0){
+    printf("Number is zero");
+}else if(num %2 ==0){
+    printf("Number is even");
+}else {
+    printf("number is odd");
+}
+
+Program looks simple right? the next question is how it work?
+
+At first (the first if) checks the enterd number is less than zero or not . If the number is less than zero (negative) then it print 
+the Number is zero else , In the else part we again write a if condition right? it checks the number is zero or not if number is zero
+it print the number is zero. again in the else part we write a if condition for checking the number is even or not. if it is even its 
+print the number is even other wise it goes to the last else part, When the number comes to this else part that means the number not
+statisfing non of the above conditions, right? so it print the number is odd.
+
+
+We can right else if as we want .
+
+
+I think this enough for explain the if else ladder? any more doubts please ask in the discussion section. And also do this Program
+by yourself and I am also attached c file of this program . Please understand the logic behind this. 
+
+In the Problem soving folder of this lesson I added more question for if-else and if-else ladder . also it's solutions
+so goto there and try to solve that questions by yourself
+
+Thank You..................
